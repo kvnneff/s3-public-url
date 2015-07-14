@@ -1,0 +1,37 @@
+{
+  "name": "s3-public-url",
+  "version": "1.0.0",
+  "description": "Create a string representing a public S3 file url.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staygrimm/s3-public-url.git"
+  },
+  "keywords": [
+    "s3",
+    "url",
+    "public",
+    "amazon",
+    "aws"
+  ],
+  "author": "River Grimm <river.grimm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staygrimm/s3-public-url/issues"
+  },
+  "homepage": "https://github.com/staygrimm/s3-public-url#readme",
+  "devDependencies": {
+    "browserify": "^10.2.6",
+    "standard": "^4.5.3",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "url": "^0.10.3"
+  }
+}
