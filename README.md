@@ -8,9 +8,9 @@ This code is lifted from [node-s3-client](https://github.com/andrewrk/node-s3-cl
 
 ### s3.getHttps(bucket, key, [bucketLocation])
 
-* bucket S3 bucket
-* key S3 key
-* bucketLocation string, one of these:
+* `bucket` S3 bucket
+* `key` S3 key
+* `bucketLocation` string, one of these:
   * "" (default) - US Standard
   * "eu-west-1"
   * "us-west-1"
