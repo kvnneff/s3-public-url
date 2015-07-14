@@ -1,5 +1,7 @@
 # s3-public-url
 
+[![alt text](https://travis-ci.org/staygrimm/s3-public-url.svg)](https://travis-ci.org/staygrimm/s3-public-url)
+
 Create a string representing a public S3 file url.
 
 This code is lifted from [node-s3-client](https://github.com/andrewrk/node-s3-client)
